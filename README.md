@@ -1,4 +1,3 @@
-42 Piscine Projects
 Welcome to my 42 Piscine repository! This repository contains all the exercises and projects I completed during the 42 Piscine. Each project is designed to build a strong foundation in programming, focusing on the C language.
 
 Projects
